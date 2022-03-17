@@ -27,6 +27,10 @@ Resources for Threat Hunting
 + https://github.com/williballenthin/python-registry
 + https://github.com/mandiant/ShimCacheParser
 + https://github.com/target/huntlib
++ https://github.com/0x4D31/awesome-threat-detection
++ https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security
++ https://github.com/jivoi/awesome-ml-for-cybersecurity
++ https://github.com/13o-bbr-bbq/machine_learning_security
 
 
 ## Medium
@@ -51,7 +55,18 @@ Resources for Threat Hunting
 + [07. Cryptocurrency Malware Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281700/07.Cryptocurrency.Malware.Hunting.pdf)
 
 
-## SANS White Papers
+## SANS Whitepapers
++ [01. Applying the Scientific Method to Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281714/01.Applying.the.Scientific.Method.to.Threat.Hunting.pdf)
++ [02. Building and Maturing Your Threat Hunting Program.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281717/02.Building.and.Maturing.Your.Threat.Hunting.Program.pdf)
++ [03. A Practical Model for Conducting Cyber Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281721/03.A.Practical.Model.for.Conducting.Cyber.Threat.Hunting.pdf)
++ [04. How to Build a Threat Hunting Capability in AWS.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281725/04.How.to.Build.a.Threat.Hunting.Capability.in.AWS.pdf)
++ [05. New Tools for Your Threat Hunting Toolbox.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281731/05.New.Tools.for.Your.Threat.Hunting.Toolbox.pdf)
++ [06. Thinking like a Hunter.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281733/06.Thinking.like.a.Hunter.pdf)
++ [07. Threat Hunting via DNS.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281735/07.Threat.Hunting.via.DNS.pdf)
++ [08. Threat Hunting withConsistency.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281739/08.Threat.Hunting.withConsistency.pdf)
++ [09. Detecting the Unknown, A Guide to Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281742/09.Detecting.the.Unknown.A.Guide.to.Threat.Hunting.pdf)
++ [10. Threat Hunting in Uncertain Times.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281756/10.Threat.Hunting.in.Uncertain.Times.pdf)
++ [11. Threat Hunting 2020 Survey Results.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281759/11.Threat.Hunting.2020.Survey.Results.pdf)
 
 
 ## Others
