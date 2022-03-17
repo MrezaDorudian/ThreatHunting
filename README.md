@@ -42,13 +42,13 @@ Resources for Threat Hunting
 
 
 ## Papers
-[01. A framework for Effective Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281689/01.A.framework.for.Effective.Threat.Hunting.pdf)
-[02. A Scientific Method-Based Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281690/02.A.Scientific.Method-Based.Threat.Hunting.pdf)
-[03. The Design of Cyber Threat Hunting Games.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281691/03.The.Design.of.Cyber.Threat.Hunting.Games.pdf)
-[04. Threat Hunting as a Method of Protection.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281693/04.Threat.Hunting.as.a.Method.of.Protection.pdf)
-[05. Automated Threat Hunting Using ELK.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281696/05.Automated.Threat.Hunting.Using.ELK.pdf)
-[06. Data-Driven Threat Hunting Using Sysmon.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281699/06.Data-Driven.Threat.Hunting.Using.Sysmon.pdf)
-[07. Cryptocurrency Malware Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281700/07.Cryptocurrency.Malware.Hunting.pdf)
++ [01. A framework for Effective Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281689/01.A.framework.for.Effective.Threat.Hunting.pdf)
++ [02. A Scientific Method-Based Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281690/02.A.Scientific.Method-Based.Threat.Hunting.pdf)
++ [03. The Design of Cyber Threat Hunting Games.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281691/03.The.Design.of.Cyber.Threat.Hunting.Games.pdf)
++ [04. Threat Hunting as a Method of Protection.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281693/04.Threat.Hunting.as.a.Method.of.Protection.pdf)
++ [05. Automated Threat Hunting Using ELK.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281696/05.Automated.Threat.Hunting.Using.ELK.pdf)
++ [06. Data-Driven Threat Hunting Using Sysmon.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281699/06.Data-Driven.Threat.Hunting.Using.Sysmon.pdf)
++ [07. Cryptocurrency Malware Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281700/07.Cryptocurrency.Malware.Hunting.pdf)
 
 
 ## SANS White Papers
