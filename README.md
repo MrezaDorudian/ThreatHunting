@@ -6,7 +6,7 @@ Resources for Threat Hunting
 + tanium: https://developer.tanium.com/site/global/home/index.gsp
 
 
-##Datasets
+## Datasets
 + https://www.stratosphereips.org/datasets-malware
 + https://github.com/CyberScienceLab/Our-Datasets
 + https://paperswithcode.com/search?q_meta=&q_type=&q=malware
