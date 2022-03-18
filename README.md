@@ -53,6 +53,8 @@ Resources for Threat Hunting
 + [05. Automated Threat Hunting Using ELK.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281696/05.Automated.Threat.Hunting.Using.ELK.pdf)
 + [06. Data-Driven Threat Hunting Using Sysmon.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281699/06.Data-Driven.Threat.Hunting.Using.Sysmon.pdf)
 + [07. Cryptocurrency Malware Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281700/07.Cryptocurrency.Malware.Hunting.pdf)
++ [08. Malware Identification using Dynamic Behaviour.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8305445/08.Malware.Identification.using.Dynamic.Behaviour.pdf)
++ [09. Dynamic Malware Analysis and Detection in Virtual_.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8305446/09.Dynamic.Malware.Analysis.and.Detection.in.Virtual_.pdf)
 
 
 ## SANS Whitepapers
@@ -67,6 +69,8 @@ Resources for Threat Hunting
 + [09. Detecting the Unknown, A Guide to Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281742/09.Detecting.the.Unknown.A.Guide.to.Threat.Hunting.pdf)
 + [10. Threat Hunting in Uncertain Times.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281756/10.Threat.Hunting.in.Uncertain.Times.pdf)
 + [11. Threat Hunting 2020 Survey Results.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281759/11.Threat.Hunting.2020.Survey.Results.pdf)
++ [12. Generating Hypotheses for Successful Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8305428/12.Generating.Hypotheses.for.Successful.Threat.Hunting.pdf)
++ [13. Scalable Methods for Conducting Cyber Threat Hunt Operations.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8305430/13.Scalable.Methods.for.Conducting.Cyber.Threat.Hunt.Operations.pdf)
 
 
 ## Others
