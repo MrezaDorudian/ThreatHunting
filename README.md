@@ -1,5 +1,5 @@
 # ThreatHunting
-Resources for Threat Hunting
+Resources to start Threat Hunting
 
 ## Useful APIs
 + virusTotal: https://developers.virustotal.com/reference/overview
