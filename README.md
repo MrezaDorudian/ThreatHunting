@@ -82,3 +82,4 @@ Resources to start Threat Hunting
 + https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html#
 + https://cyberwardog.blogspot.com/
 + [SANDIKAMIMANIA.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8305460/SANDIKAMIMANIA.pdf)
++ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
