@@ -31,6 +31,10 @@ Resources to start Threat Hunting
 + https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security
 + https://github.com/jivoi/awesome-ml-for-cybersecurity
 + https://github.com/13o-bbr-bbq/machine_learning_security
++ https://github.com/sans-blue-team/DeepBlueCLI
++ https://github.com/SoulSec/resource-threat-hunting
++ https://thehelk.com/installation.html
++ https://github.com/fabacab/awesome-cybersecurity-blueteam
 
 
 ## Medium
@@ -43,6 +47,7 @@ Resources to start Threat Hunting
 + https://github.com/MarkBaggett/domain_stats
 + https://suricata.io
 + https://logz.io/learn/complete-guide-elk-stack
++ https://thehelk.com/installation.html
 
 
 ## Papers
