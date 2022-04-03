@@ -83,3 +83,4 @@ Resources to start Threat Hunting
 + https://cyberwardog.blogspot.com/
 + [SANDIKAMIMANIA.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8305460/SANDIKAMIMANIA.pdf)
 + https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
++ https://www.blackhillsinfosec.com/projects/
