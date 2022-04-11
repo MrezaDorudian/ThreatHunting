@@ -48,6 +48,7 @@ Resources to start Threat Hunting
 + https://suricata.io
 + https://logz.io/learn/complete-guide-elk-stack
 + https://thehelk.com/installation.html
++ https://www.winitor.com
 
 
 ## Papers
@@ -84,3 +85,4 @@ Resources to start Threat Hunting
 + [SANDIKAMIMANIA.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8305460/SANDIKAMIMANIA.pdf)
 + https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 + https://www.blackhillsinfosec.com/projects/
+
