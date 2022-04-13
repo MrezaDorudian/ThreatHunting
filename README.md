@@ -35,6 +35,7 @@ Resources to start Threat Hunting
 + https://github.com/SoulSec/resource-threat-hunting
 + https://thehelk.com/installation.html
 + https://github.com/fabacab/awesome-cybersecurity-blueteam
++ https://github.com/redcanaryco/atomic-red-team
 
 
 ## Medium
