@@ -41,7 +41,7 @@ Resources to start Threat Hunting
 ## Medium
 + https://medium.com/@hirensadhwani2619/introduction-to-threat-hunting-8dff62ba52ca
 + https://medium.com/@levurge/detecting-mimikatz-with-sysmon-f6a96669747e
-+ 
++ https://medium.com/kminthein/threat-hunter-diary-part-1-hunting-mimikatz-4b24f10a65f4
 
 
 ## Open Source Tools
@@ -94,5 +94,3 @@ Resources to start Threat Hunting
 + https://cyberwardog.blogspot.com/2017/03/chronicles-of-threat-hunter-hunting-for_22.html
 + https://www.eideon.com/2017-09-09-THL01-Mimikatz
 + https://www.hexacorn.com/blog/2019/02/03/can-we-stop-detecting-mimikatz-please
-+ https://medium.com/kminthein/threat-hunter-diary-part-1-hunting-mimikatz-4b24f10a65f4
-
