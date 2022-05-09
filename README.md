@@ -36,6 +36,7 @@ Resources to start Threat Hunting
 + https://thehelk.com/installation.html
 + https://github.com/fabacab/awesome-cybersecurity-blueteam
 + https://github.com/redcanaryco/atomic-red-team
++ https://github.com/olafhartong/ThreatHunting
 
 
 ## Medium
