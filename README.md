@@ -37,6 +37,8 @@ Resources to start Threat Hunting
 + https://github.com/fabacab/awesome-cybersecurity-blueteam
 + https://github.com/redcanaryco/atomic-red-team
 + https://github.com/olafhartong/ThreatHunting
++ https://github.com/olafhartong/sysmon-cheatsheet
++ https://github.com/cedricbonhomme/pyHIDS
 
 
 ## Medium
