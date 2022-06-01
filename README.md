@@ -39,6 +39,7 @@ Resources to start Threat Hunting
 + https://github.com/olafhartong/ThreatHunting
 + https://github.com/olafhartong/sysmon-cheatsheet
 + https://github.com/cedricbonhomme/pyHIDS
++ https://github.com/activecm/threat-hunting-labs/
 
 
 ## Medium
