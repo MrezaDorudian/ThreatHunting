@@ -71,19 +71,19 @@ Welcome to our collection of resources for threat hunting! Threat hunting is the
 
 
 ## SANS Whitepapers
-+ [01. Applying the Scientific Method to Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281714/01.Applying.the.Scientific.Method.to.Threat.Hunting.pdf)
-+ [02. Building and Maturing Your Threat Hunting Program.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281717/02.Building.and.Maturing.Your.Threat.Hunting.Program.pdf)
-+ [03. A Practical Model for Conducting Cyber Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281721/03.A.Practical.Model.for.Conducting.Cyber.Threat.Hunting.pdf)
-+ [04. How to Build a Threat Hunting Capability in AWS.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281725/04.How.to.Build.a.Threat.Hunting.Capability.in.AWS.pdf)
-+ [05. New Tools for Your Threat Hunting Toolbox.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281731/05.New.Tools.for.Your.Threat.Hunting.Toolbox.pdf)
-+ [06. Thinking like a Hunter.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281733/06.Thinking.like.a.Hunter.pdf)
-+ [07. Threat Hunting via DNS.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281735/07.Threat.Hunting.via.DNS.pdf)
-+ [08. Threat Hunting withConsistency.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281739/08.Threat.Hunting.withConsistency.pdf)
-+ [09. Detecting the Unknown, A Guide to Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281742/09.Detecting.the.Unknown.A.Guide.to.Threat.Hunting.pdf)
-+ [10. Threat Hunting in Uncertain Times.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281756/10.Threat.Hunting.in.Uncertain.Times.pdf)
-+ [11. Threat Hunting 2020 Survey Results.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281759/11.Threat.Hunting.2020.Survey.Results.pdf)
-+ [12. Generating Hypotheses for Successful Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8305428/12.Generating.Hypotheses.for.Successful.Threat.Hunting.pdf)
-+ [13. Scalable Methods for Conducting Cyber Threat Hunt Operations.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8305430/13.Scalable.Methods.for.Conducting.Cyber.Threat.Hunt.Operations.pdf)
++ [Applying the Scientific Method to Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281714/01.Applying.the.Scientific.Method.to.Threat.Hunting.pdf)
++ [Building and Maturing Your Threat Hunting Program.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281717/02.Building.and.Maturing.Your.Threat.Hunting.Program.pdf)
++ [A Practical Model for Conducting Cyber Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281721/03.A.Practical.Model.for.Conducting.Cyber.Threat.Hunting.pdf)
++ [How to Build a Threat Hunting Capability in AWS.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281725/04.How.to.Build.a.Threat.Hunting.Capability.in.AWS.pdf)
++ [New Tools for Your Threat Hunting Toolbox.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281731/05.New.Tools.for.Your.Threat.Hunting.Toolbox.pdf)
++ [Thinking like a Hunter.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281733/06.Thinking.like.a.Hunter.pdf)
++ [Threat Hunting via DNS.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281735/07.Threat.Hunting.via.DNS.pdf)
++ [Threat Hunting withConsistency.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281739/08.Threat.Hunting.withConsistency.pdf)
++ [Detecting the Unknown, A Guide to Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281742/09.Detecting.the.Unknown.A.Guide.to.Threat.Hunting.pdf)
++ [Threat Hunting in Uncertain Times.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281756/10.Threat.Hunting.in.Uncertain.Times.pdf)
++ [Threat Hunting 2020 Survey Results.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281759/11.Threat.Hunting.2020.Survey.Results.pdf)
++ [Generating Hypotheses for Successful Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8305428/12.Generating.Hypotheses.for.Successful.Threat.Hunting.pdf)
++ [Scalable Methods for Conducting Cyber Threat Hunt Operations.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8305430/13.Scalable.Methods.for.Conducting.Cyber.Threat.Hunt.Operations.pdf)
 
 
 ## Others
