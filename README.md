@@ -60,15 +60,13 @@ Resources to start Threat Hunting
 
 
 ## Papers
-+ [01. A framework for Effective Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281689/01.A.framework.for.Effective.Threat.Hunting.pdf)
-+ [02. A Scientific Method-Based Threat Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281690/02.A.Scientific.Method-Based.Threat.Hunting.pdf)
-+ [03. The Design of Cyber Threat Hunting Games.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281691/03.The.Design.of.Cyber.Threat.Hunting.Games.pdf)
-+ [04. Threat Hunting as a Method of Protection.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281693/04.Threat.Hunting.as.a.Method.of.Protection.pdf)
-+ [05. Automated Threat Hunting Using ELK.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281696/05.Automated.Threat.Hunting.Using.ELK.pdf)
-+ [06. Data-Driven Threat Hunting Using Sysmon.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281699/06.Data-Driven.Threat.Hunting.Using.Sysmon.pdf)
-+ [07. Cryptocurrency Malware Hunting.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8281700/07.Cryptocurrency.Malware.Hunting.pdf)
-+ [08. Malware Identification using Dynamic Behaviour.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8305445/08.Malware.Identification.using.Dynamic.Behaviour.pdf)
-+ [09. Dynamic Malware Analysis and Detection in Virtual_.pdf](https://github.com/MrezaDorudian/ThreatHunting/files/8305446/09.Dynamic.Malware.Analysis.and.Detection.in.Virtual_.pdf)
++ [A framework for Effective Threat Hunting](https://www.researchgate.net/publication/333748276_A_Framework_for_Effective_Threat_Hunting)
++ [A Scientific Method-Based Threat Hunting](https://ieeexplore.ieee.org/document/8833792)
++ [The Design of Cyber Threat Hunting Games](https://ieeexplore.ieee.org/document/8038527)
++ [Threat Hunting as a Method of Protection](https://ceur-ws.org/Vol-2833/Paper_10.pdf)
++ [Automated Threat Hunting Using ELK](http://www.ijcse.com/docs/INDJCSE19-10-05-008.pdf)
++ [Data-Driven Threat Hunting Using Sysmon](https://arxiv.org/pdf/2103.15194)
++ [Dynamic Malware Analysis and Detection in Virtual Environment](https://www.researchgate.net/publication/316069737_Dynamic_Malware_Analysis_and_Detection_in_Virtual_Environment)
 
 
 ## SANS Whitepapers
