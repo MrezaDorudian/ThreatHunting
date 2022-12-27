@@ -1,6 +1,10 @@
 # Threat Hunting Resources
 
-Welcome to our collection of resources for threat hunting! Threat hunting is the proactive search for indicators of compromise (IOCs) on a network, with the goal of detecting and mitigating potential threats before they can cause harm. These resources are intended to help you get started with threat hunting or improve your existing skills and techniques.
+Welcome to our repository of resources for threat hunting! Threat hunting is the proactive search for indicators of compromise (IOCs) on a network, with the goal of detecting and mitigating potential threats before they can cause harm. This repository is intended to provide a comprehensive collection of resources to help individuals interested in threat hunting get started or improve their skills and techniques.
+
+The resources in this repository include APIs, datasets, YouTube videos, GitHub repositories, Medium articles, open source tools, papers, and SANS whitepapers. These resources cover a range of topics, including machine learning, dynamic malware analysis, and detection in virtual environments.
+
+We hope that these resources will be useful to anyone interested in threat hunting and that they will help you stay up-to-date on the latest techniques and tools in this rapidly evolving field. Thank you for visiting our repository and we hope that you find these resources helpful.
 
 ## Useful APIs
 + virusTotal: https://developers.virustotal.com/reference/overview
