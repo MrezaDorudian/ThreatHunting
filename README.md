@@ -1,5 +1,6 @@
-# ThreatHunting
-Resources to start Threat Hunting
+# Threat Hunting Resources
+
+Welcome to our collection of resources for threat hunting! Threat hunting is the proactive search for indicators of compromise (IOCs) on a network, with the goal of detecting and mitigating potential threats before they can cause harm. These resources are intended to help you get started with threat hunting or improve your existing skills and techniques.
 
 ## Useful APIs
 + virusTotal: https://developers.virustotal.com/reference/overview
